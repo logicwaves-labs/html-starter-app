@@ -1,6 +1,6 @@
 # html-starter-app
 
-## Run Html code
+## Know how to run your first application?
 
 <br>
 <details>
