@@ -2,7 +2,9 @@
 
 ## Run Html code
 
-#### Default folder and default file
+<br>
+<details>
+  <summary>Default folder and default file</summary>
 
 - Steps
 
@@ -16,9 +18,11 @@
   ![Live server option ](https://api.prolabs.app/apps/readme/html/live-server-option.png)
 
 - Browser View
-  ![Browser view ](https://api.prolabs.app/apps/readme/html/default-browser-view.png)
-
-#### Default folder if any other file(s) are created.
+![Browser view ](https://api.prolabs.app/apps/readme/html/default-browser-view.png)
+</details>
+<br>
+<details>
+  <summary> Default folder if any other file(s) are created.</summary>
 
 - Steps
 
@@ -33,9 +37,11 @@
   ![Live server option ](https://api.prolabs.app/apps/readme/html/live-server-option.png)
 
 - Browser View
-  ![Browser view ](https://api.prolabs.app/apps/readme/html/dafault-setup-new-file-live-server.png)
-
-#### New folder new file
+![Browser view ](https://api.prolabs.app/apps/readme/html/dafault-setup-new-file-live-server.png)
+</details>
+<br>
+<details>
+  <summary>New folder new file</summary>
 
 - Steps
 
@@ -50,4 +56,5 @@
   ![Live server option ](https://api.prolabs.app/apps/readme/html/live-server-option.png)
 
 - Browser View
-  ![Browser view ](https://api.prolabs.app/apps/readme/html/new-foler-new-file-browser.png)
+![Browser view ](https://api.prolabs.app/apps/readme/html/new-foler-new-file-browser.png)
+</details>
