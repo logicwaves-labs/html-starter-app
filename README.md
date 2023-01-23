@@ -1,4 +1,4 @@
-# html-starter-app
+# Your first HTML Application. Happy Learning!
 
 ## Know how to run your first application?
 
